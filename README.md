@@ -4,4 +4,6 @@
 <!-- default badges end -->
 # TestCafe Continuous Integration Demo
 
-This repository contains sample TestCafe tests used in the [Continuous Integration tutorials](https://devexpress.github.io/testcafe/documentation/continuous-integration/).
+Use this collection of simple tests to follow [Continuous Integration tutorials](https://testcafe.io/documentation/402809/guides/continuous-integration) from the TestCafe documentation.
+
+The `test.js` file includes eight tests for the [TestCafe example page](https://devexpress.github.io/testcafe/example). The page model file (`page-model.js`) defines Selector queries for these tests.
