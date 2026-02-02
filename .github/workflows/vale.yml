@@ -24,7 +24,8 @@ jobs:
       - name: vale linter check
         uses: DevExpress/vale-action@reviewdog
         with:
-          files: '["[Rr][Ee][Aa][Dd][Mm][Ee].md"]'
+          files: '[Rr][Ee][Aa][Dd][Mm][Ee].md'
           fail_on_error: true
           filter_mode: nofilter
           reporter: github-check
+
