@@ -8,6 +8,7 @@
 Use this collection of simple tests to follow [Continuous Integration tutorials](https://testcafe.io/documentation/402809/guides/continuous-integration) from the TestCafe documentation.
 
 The `test.js` file includes eight tests for the [TestCafe example page](https://devexpress.github.io/testcafe/example). The page model file (`page-model.js`) defines Selector queries for these tests.
+
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
@@ -15,3 +16,4 @@ The `test.js` file includes eight tests for the [TestCafe example page](https://
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
